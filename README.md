@@ -1,5 +1,4 @@
-# AIKEEDO - AI Powered Content Platform
+# Investle - Transform Ideas into Stunning Content Instantly
 
-## Documentation
 
-Documentation is availabe at https://docs.aikeedo.com
+Visit at https://investle.net
